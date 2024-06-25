@@ -5,7 +5,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -25,3 +24,25 @@ To install and run the OCR project, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone git@github.com:techie-krishna-kayaking/OCR.git
+
+2. **Navigate to the project directory:**
+   ```sh
+   cd OCR
+   
+4. Install the required dependencies:
+   ```sh
+   pip install pytesseract pillow opencv-python-headless numpy pandas pymupdf
+
+
+## Usage
+To use the OCR tool, run the following command:
+   ```sh
+   python ocr.py <path_to_image>
+
+The recognized text will be displayed in the console or saved to an output file, depending on the command-line options used.
+
+
+## Acknowledgements
+Thanks to the contributors of Tesseract OCR
+Inspired by various open-source OCR projects and libraries
+
