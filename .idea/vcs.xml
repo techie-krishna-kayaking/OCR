@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/OCR-old/Hand-written-equation-detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OCR-old/OCR_HandWritten_Form" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OCR-old/ocr-python" vcs="Git" />
+  </component>
+</project>
