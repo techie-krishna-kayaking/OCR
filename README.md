@@ -39,10 +39,9 @@ To use the OCR tool, run the following command:
    ```sh
    python ocr.py <path_to_image>
 
-The recognized text will be displayed in the console or saved to an output file, depending on the command-line options used.
-
-
 ## Acknowledgements
 Thanks to the contributors of Tesseract OCR
 Inspired by various open-source OCR projects and libraries
 
+## Author
+[Krishna Kayaking] (#Techie-Krishna-Kayaking)
