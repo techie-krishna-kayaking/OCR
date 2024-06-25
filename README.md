@@ -37,7 +37,8 @@ To install and run the OCR project, follow these steps:
 ## Usage
 To use the OCR tool, run the following command:
    ```sh
-   python ocr.py <path_to_image>
+   python ocr.py
+   ```
 
 ## Acknowledgements
 Thanks to the contributors of Tesseract OCR
