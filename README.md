@@ -45,6 +45,4 @@ Thanks to the contributors of Tesseract OCR
 Inspired by various open-source OCR projects and libraries
 
 ## Author
-[Krishna Kayaking] (#Techie-Krishna-Kayaking)
-
-[Krishna Kayaking](#TechieKrishnaKayaking)
+[Krishna Kayaking](#Techie-Krishna-Kayaking)
